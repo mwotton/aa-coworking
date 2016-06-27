@@ -26,3 +26,9 @@ Espresso Royale
   - shithouse coffee
   - good wifi
   - power available? not sure
+
+(Workantile)[workantile.com]
+- quiet
+- good wifi
+- power
+- has one free trial day. a trial week is $50, generally $200/mo.
