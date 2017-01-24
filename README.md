@@ -32,3 +32,12 @@ Espresso Royale
 - good wifi
 - power
 - has one free trial day. a trial week is $50, generally $200/mo.
+
+YPSI
+====
+
+Cultivate
+ - wifi was solid, though I didnt slam it to check rates.
+ - some of the seating isnt comfortable to work in for hours
+ - atmosphere is great
+ - you can get a pint anytime you want
