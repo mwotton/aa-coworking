@@ -21,12 +21,20 @@ Espresso Bar
   - bit noisy
   - reasonable wifi
 
-Espresso Royale
+Espresso Royale (main st)
+  - quiet
+  - shithouse coffee
+  - good wifi
+  - power available
+  - top pick if you're not an insufferable snob about coffee
+  
+Espresso Royale (state st)
   - quiet
   - shithouse coffee
   - good wifi
   - power available? not sure
-
+  - full of students
+  
 [Workantile](workantile.com)
 - quiet
 - good wifi
