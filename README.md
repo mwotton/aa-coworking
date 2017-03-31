@@ -49,3 +49,9 @@ Cultivate
  - some of the seating isnt comfortable to work in for hours
  - atmosphere is great
  - you can get a pint anytime you want
+
+Corner Brewery (ABC Microbrewery)
+ - wifi acceptable, ask the bartender if it isn't
+ - comfy chairs and outside seating in season
+ - winter hours have limited lunchtime options; summer hours longer
+ - you can have a pint anytime you want
