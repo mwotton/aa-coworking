@@ -19,7 +19,7 @@ Espresso Bar
   - some power
   - excellent coffee
   - bit noisy
-  - reasonable wifi
+  - reasonable wifi (though no local connectivity, if that's important)
 
 Espresso Royale (main st)
   - quiet
