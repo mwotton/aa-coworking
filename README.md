@@ -35,12 +35,30 @@ Espresso Royale (state st)
   - power available? not sure
   - full of students
   
-[Workantile](workantile.com)
+[Workantile](http://workantile.com)
 - quiet
 - good wifi
 - power
 - has one free trial day. a trial week is $50, generally $200/mo.
 
+SOUTHTOWN
+=========
+
+[Roos Roast](http://roosroast.com) (Rosewood St off of S Industrial)
+ - not too quiet
+ - excellent coffee (espresso, $2)
+ - good wifi and decent power
+ - 8-top table, plus multiple 2-top and 4-top tables
+ - outdoor patio, weather permitting
+ 
+Morgan and York (Packard between Jorn and Coler)
+ - busy in front, quiet in back
+ - Full deli, coffee bar (espresso, $2.25)
+ - They sell wine and beer but you can't open a bottle on site.
+ - Several long tables (n=8) in the front, and more in the back. 
+ - No power outlets in the front but there is one in the back, bring a power strip.
+ - Wifi can be spotty
+ 
 YPSI
 ====
 
